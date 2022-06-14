@@ -2,8 +2,9 @@
 	"name": "markdownnavigation",
 	"displayName": "Markdown Navigation",
 	"description": "Markdown Navigation",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "kongkongye",
+	"icon": "resources/description.png",
 	"engines": {
 		"vscode": "^1.68.0"
 	},
